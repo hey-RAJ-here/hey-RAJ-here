@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Priyanshu%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Priyanshu%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Development&descAlignY=62&descAlign=50&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&lines=Building+Production-Grade+AI+Systems;Full+Stack+Engineer+%7C+MERN+%2B+FastAPI;RAG+Pipelines+%7C+LLM+Orchestration+%7C+Docker;B.Tech+CSE+%40+NIT+Patna+%7C+LeetCode+1720;Fail+early%2C+learn+quickly%2C+rise+STRONGER+%F0%9F%A4%BA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&lines=Building+Production-Grade+AI+Systems;Full+Stack+Engineer+%7C+MERN+%2B+FastAPI;Deep+Learning+%7C+Computer+Vision+%7C+Research;B.Tech+CSE+%40+NIT+Patna+%7C+CGPA+8.80;Fail+early%2C+learn+quickly%2C+rise+STRONGER+%F0%9F%A4%BA" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,11 +15,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Patna%2C%20Bihar-India-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
-<p align="center">
-  <a href="https://holopin.io/@heyrajhere">
-    <img src="https://holopin.me/heyrajhere" alt="Holopin Badges" />
-  </a>
-</p>
+
 <p align="center">
   <a href="mailto:rajpriyanshu.works@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-rajpriyanshu.works%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -31,8 +27,6 @@
   &nbsp;
   <a href="https://github.com/hey-RAJ-here">
     <img src="https://img.shields.io/badge/GitHub-hey--RAJ--here-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
   </a>
 </p>
 
@@ -50,21 +44,19 @@
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-RAJ-here&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&layout=compact&langs_count=8" />
 
-I am a pre-final year **Computer Science & Engineering** student at **NIT Patna** (Batch 2023–2027), building at the intersection of **AI/ML systems**, **full-stack product engineering**, and **developer tooling**.
+I am a final year **Computer Science & Engineering** student at **NIT Patna** (Batch 2023–2027), building at the intersection of **AI/ML systems**, **deep learning research**, and **full-stack product engineering**.
 
-My engineering philosophy centers on shipping production-grade systems from day one — architected for reliability, maintainability, and scale. I specialize in designing **LLM-powered pipelines**, **RAG architectures**, and **agentic workflows**, while maintaining strong fundamentals across the full stack: databases, REST APIs, containerization, and modern frontend frameworks.
+My engineering philosophy centers on shipping production-grade systems from day one — architected for reliability, maintainability, and scale. I specialize in designing **LLM-powered pipelines**, **RAG architectures**, and **computer vision systems**, while maintaining strong fundamentals across the full stack: databases, REST APIs, containerization, and modern frontend frameworks.
 
-I have solved **750+ competitive programming problems** (LeetCode Rating: **1720**), contributed to **GirlScript Summer of Code** and **HacktoberFest 2024**, and maintain active leadership roles across two technical clubs at NIT Patna.
+I have solved **750+ competitive programming problems**, contributed to **GirlScript Summer of Code** and **HacktoberFest 2024**, and conducted faculty-supervised deep learning research at NIT Patna.
 
 I believe in: `fail early → learn fast → iterate harder`.
 
 <br/>
 
 **◈ Open To**
-- SDE Internships — Summer / Winter 2025–26
+- SDE Internships and FTE
 - AI/ML Engineering Internships
-- Research Collaboration in NLP / LLM Systems
-- Open Source Contributions in AI developer tooling
 
 ---
 
@@ -86,8 +78,6 @@ I believe in: `fail early → learn fast → iterate harder`.
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Qdrant-1C1C1C?style=flat-square&logo=databricks&logoColor=8B5CF6" />
 </p>
 
 **AI / ML & LLM Tooling**
@@ -108,7 +98,6 @@ I believe in: `fail early → learn fast → iterate harder`.
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Inngest-1C1C1C?style=flat-square&logo=temporal&logoColor=A78BFA" />
   <img src="https://img.shields.io/badge/JWT-1C1C1C?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/ImageKit-1C1C1C?style=flat-square&logo=imagekit&logoColor=white" />
 </p>
@@ -121,12 +110,36 @@ I believe in: `fail early → learn fast → iterate harder`.
 |:---|:---:|:---|
 | **Retrieval-Augmented Generation (RAG)** | ████████░░ Advanced | PDF ingestion, semantic chunking, vector search, source-grounded Q&A |
 | **LLM Integration & Prompt Engineering** | ████████░░ Advanced | Gemini AI, OpenAI, multi-provider fallbacks, custom prompt engineering |
-| **Vector Databases** | ███████░░░ Proficient | Qdrant with quantization, memory optimization, similarity search |
-| **Workflow Orchestration** | ███████░░░ Proficient | Inngest step functions, idempotent ingestion, durable pipelines |
+| **Computer Vision & Deep Learning** | ████████░░ Advanced | Dual-branch CNNs, wavelet transforms, attention mechanisms, PyTorch |
+| **Deepfake Detection Research** | ████████░░ Advanced | FaceForensics++, Celeb-DF v2, compression-aware architectures, MTCNN |
 | **Full-Stack AI Product Engineering** | ████████░░ Advanced | FastAPI backends, React frontends, ATS-optimized AI resume systems |
 | **Containerization & Deployment** | ███████░░░ Proficient | Docker, VPS deployment, CI/CD automation, Lighthouse score 90+ |
-| **Deep Learning Fundamentals** | ██████░░░░ Intermediate | PyTorch, ML/DL coursework at NIT Patna |
 | **Data Science Stack** | ██████░░░░ Intermediate | NumPy, Pandas, Matplotlib, Jupyter Notebook |
+
+---
+
+## ◈ Research Experience
+
+### Compression-Aware Hybrid Deepfake Detection Framework
+**Under the supervision of Dr. Antriksh Goswami, Assistant Professor, CSE Dept. — NIT Patna** &nbsp;|&nbsp; `Jan 2026 – Apr 2026`
+
+Designed and implemented a novel deep learning framework for robust deepfake detection on compressed and blurred images, combining frequency-domain and spatial-domain analysis through a dual-branch architecture.
+
+- Designed a **dual-branch deep learning architecture** combining **DB2 Wavelet Transform** (frequency-domain) and **Conv2D-based spatial feature extraction** for robust deepfake detection under compression artifacts
+- Implemented **Channel-Wise Attention (CWA)** and **Cross-Attention Fusion** mechanisms to selectively weight forensic features from wavelet sub-bands (LH, HL, HH) and spatial CNN streams
+- Engineered a **62× lighter model (6.7M params, 0.005 GFLOPs)** compared to state-of-the-art MAT (417M params), achieving inference in **<58ms per image** suitable for edge deployment
+- Achieved **84.00% intra-dataset accuracy** on FaceForensics++ and **76.34% cross-dataset generalization** on Celeb-DF v2 under heavy C40 JPEG compression; demonstrated wavelet branch retains **70% forensic signal** vs. 15% for pixel-level methods
+- Conducted **ablation studies** across 4 model variants (RGB/Grayscale × Attention/No-Attention), **literature survey** of 15+ papers, and **research gap analysis** identifying JPEG-DCT interference in frequency-domain detectors
+- Utilized **MTCNN** for face detection pipeline (P-Net, R-Net, O-Net), **custom ResNet classifier**, and large-scale dataset processing with FaceForensics++ and Celeb-DF v2
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MTCNN-6D28D9?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wavelet%20Transform-8B5CF6?style=flat-square&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/FaceForensics++-A78BFA?style=flat-square&logo=databricks&logoColor=white" />
+</p>
 
 ---
 
@@ -137,18 +150,17 @@ I believe in: `fail early → learn fast → iterate harder`.
 
 <br/>
 
-A production-grade, enterprise-ready **Retrieval-Augmented Generation (RAG)** system for intelligent PDF document processing. DocuSphere ingests complex documents, stores vector embeddings in a quantized Qdrant instance, and surfaces highly accurate, context-aware, source-grounded answers through a semantic search interface — built to handle high-throughput workloads with zero data loss guarantees.
+A production-grade, enterprise-ready **Retrieval-Augmented Generation (RAG)** system for intelligent PDF document processing. DocuSphere ingests complex documents, stores vector embeddings, and surfaces highly accurate, context-aware, source-grounded answers through a semantic search interface — built to handle high-throughput workloads with zero data loss guarantees.
 
 | Attribute | Details |
 |:---|:---|
 | **Stack** | Python, FastAPI, LangChain, Qdrant, Inngest, Docker |
 | **LLM Providers** | OpenAI, Google Gemini (multi-provider fallback architecture) |
-| **Vector Store** | Qdrant with quantization — reduced memory footprint, accelerated search |
 | **Orchestration** | Inngest step functions — deterministic, idempotent, durable workflows |
 | **Reliability** | Graceful degradation, zero data loss under high-throughput workloads |
 | **Repository** | [DocuSphere →](https://github.com/hey-RAJ-here) |
 
-The ingestion pipeline implements deterministic idempotency — re-running ingestion on the same document produces identical state, enabling safe retries. Qdrant vector quantization reduces embedding memory by up to 4x while maintaining retrieval accuracy. The multi-provider LLM fallback layer automatically reroutes requests from OpenAI to Gemini on quota exhaustion or latency spikes, ensuring 99%+ uptime for end-user queries.
+The ingestion pipeline implements deterministic idempotency — re-running ingestion on the same document produces identical state, enabling safe retries. The multi-provider LLM fallback layer automatically reroutes requests from OpenAI to Gemini on quota exhaustion or latency spikes, ensuring 99%+ uptime for end-user queries.
 
 <br/>
 </details>
@@ -170,7 +182,7 @@ A full-stack web application that leverages **Google Gemini AI** to generate, op
 | **Performance** | Lighthouse score consistently above 90 |
 | **Repository** | [AI-Powered-Resume-Builder →](https://github.com/hey-RAJ-here/AI-Powered-Resume-Builder) |
 
-The AI layer receives structured user profile data and target job context, then applies custom prompt chains to optimize keyword density, section ordering, and ATS compatibility. Shareable resume links allow real-time preview sharing without requiring recipient authentication. The ImageKit integration handles profile image upload, transformation, and CDN delivery automatically.
+The AI layer receives structured user profile data and target job context, then applies custom prompt chains to optimize keyword density, section ordering, and ATS compatibility. Shareable resume links allow real-time preview sharing without requiring recipient authentication.
 
 <br/>
 </details>
@@ -190,8 +202,6 @@ A real-time encrypted messaging application where all messages are encrypted cli
 | **Architecture** | Zero-knowledge relay server, stateless encryption layer |
 | **Repository** | [Secure-Chat-Application →](https://github.com/hey-RAJ-here/Secure-Chat-Application) |
 
-Keys are derived from user credentials and never leave the client. Messages traverse the Socket.io channel as AES-encrypted blobs, making the server a pure relay with no access to conversation content — mirroring the architecture of enterprise-grade secure messaging platforms.
-
 <br/>
 </details>
 
@@ -206,110 +216,33 @@ A clean, data-driven personal finance management application offering real-time 
 |:---|:---|
 | **Stack** | React.js, Node.js, MongoDB, Chart.js, Tailwind CSS |
 | **Features** | Income/expense tracking, savings goals, category analytics, transaction history |
-| **UX Focus** | Clean dashboard, real-time updates, mobile-responsive design |
 | **Repository** | [Smart-Finance-Tracker →](https://github.com/hey-RAJ-here/Smart-Finance-Tracker) |
-
-The application implements category-based accounting with real-time aggregation. The analytics layer computes rolling monthly summaries — burn rate, savings rate, category breakdown — rendered as interactive Chart.js visualizations.
 
 <br/>
 </details>
 
 ---
 
-## ◈ Experience & Positions of Responsibility
-
-### UI/UX Member — DesCo, NIT Patna
-`January 2024 – Present`
-
-Active member of the Design Community at NIT Patna, contributing to UI/UX design initiatives, design system standards, and digital product experiences for campus-wide events and club platforms.
-
-<p>
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-6D28D9?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design%20Systems-7C3AED?style=flat-square&logo=storybook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Product%20Thinking-8B5CF6?style=flat-square&logo=productboard&logoColor=white" />
-</p>
-
----
-
-### Content & Social Media Member — Hackslash Developer Club, NIT Patna
-`August 2024 – Present`
-
-Member of the official developer club at NIT Patna, contributing to technical content creation, social media strategy, and community outreach for hackathons, coding events, and developer workshops.
-
-<p>
-  <img src="https://img.shields.io/badge/Technical%20Writing-4C1D95?style=flat-square&logo=hashnode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Developer%20Community-6D28D9?style=flat-square&logo=devdotto&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathon%20Organizing-7C3AED?style=flat-square&logo=devpost&logoColor=white" />
-</p>
-
----
-
-### Volunteer Teacher — Sankalp (NSS Unit), NIT Patna
-`January 2024 – August 2025`
-
-Volunteered as a teacher under NIT Patna's NSS unit, providing foundational education to underprivileged students — contributing to social impact alongside technical development.
-
-<p>
-  <img src="https://img.shields.io/badge/NSS%20Volunteer-8B5CF6?style=flat-square&logo=heart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Education%20Outreach-A78BFA?style=flat-square&logo=bookstack&logoColor=white" />
-</p>
-
----
-
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---:|:---|
-| 🏆 **LeetCode Rating 1720** | Competitive programming — top percentile performance |
-| 💡 **750+ Problems Solved** | Across LeetCode, GFG, CodeChef and other platforms |
-| 🎓 **9.23 CGPA — First Year** | Ranked in top 5% of the batch at NIT Patna |
-| 🌐 **GirlScript Summer of Code 2024** | Selected for open source contribution program (GSSoC Extd) |
-| 🎃 **HacktoberFest 2024** | Successfully contributed and earned 5 official badges |
-| ⭐ **GitHub Pull Shark** | Earned GitHub achievement for meaningful open source PRs |
-| 🤺 **Fail early, rise STRONGER** | Shipped 4+ production-grade projects in first two years |
-
-</div>
-
----
-
 ## ◈ Certifications
+
+**AWS**
+
+<p>
+  <a href="https://drive.google.com/file/d/1nQEoBacBbY-Ub830kpHD_Kk7u6jXJFBZ/view" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Foundations%20of%20Prompt%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+</p>
 
 **Oracle**
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%202025%20AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1-uVUc1ZMWErFH2ybhe7F4N9XMspnJRkK/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%202025%20AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Oracle-Data%20Platform%202025%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-> Both certifications verified — Jan 2026
-
----
-
-## ◈ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/hey-RAJ-here/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Rating%201720-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1A1A1A" height="40"/>
+  <a href="https://drive.google.com/file/d/1-uVUc1ZMWErFH2ybhe7F4N9XMspnJRkK/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-Data%20Platform%202025%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/hey-RAJ-here/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-GFG%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1A1A1A" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/hey-RAJ-here" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=1A1A1A" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/hey_raj_here" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1A1A1A" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Problems%20Solved-750%2B-8B5CF6?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
 ---
@@ -328,22 +261,6 @@ Volunteered as a teacher under NIT Patna's NSS unit, providing foundational educ
 
 ---
 
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hey-RAJ-here&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hey-RAJ-here&bg_color=0D1117&color=A78BFA&line=6D28D9&point=8B5CF6&area=true&area_color=4C1D95&hide_border=true&radius=6" width="95%" />
-</p>
-
----
-
 ## ◈ Contribution Snake
 
 <p align="center">
@@ -353,35 +270,6 @@ Volunteered as a teacher under NIT Patna's NSS unit, providing foundational educ
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hey-RAJ-here/hey-RAJ-here/output/github-snake-dark.svg" />
   </picture>
 </p>
-
----
-
-## ◈ Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - RAG pipeline optimization — hybrid search, re-ranking, chunking strategies
-    - Multi-agent orchestration with LangGraph and CrewAI
-    - LLMs from scratch — hands-on PyTorch implementation
-    - System design for distributed AI inference at scale
-
-  building:
-    - DocuSphere v2 — multi-tenant RAG with role-based document access
-    - LangGraph-based multi-agent GitHub issue resolver
-    - RAG-powered Document Q&A with streaming LLM responses
-
-  exploring:
-    - Vector database internals — HNSW, IVFFlat, scalar quantization
-    - Inngest advanced patterns — fan-out, throttling, event replay
-    - Agentic AI systems — tool use, memory, planning loops
-
-  open_to:
-    - SDE Internships — Summer / Winter 2025–26
-    - AI/ML Engineering Internships
-    - Research Collaborations in NLP / LLM Systems
-    - Open Source contributions in AI developer tooling
-```
 
 ---
 
