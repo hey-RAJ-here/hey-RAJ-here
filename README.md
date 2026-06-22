@@ -15,7 +15,11 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Patna%2C%20Bihar-India-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
-
+<p align="center">
+  <a href="https://holopin.io/@heyrajhere">
+    <img src="https://holopin.me/heyrajhere" alt="Holopin Badges" />
+  </a>
+</p>
 <p align="center">
   <a href="mailto:rajpriyanshu.works@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-rajpriyanshu.works%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
